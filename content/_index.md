@@ -1,19 +1,13 @@
 ---
-title: "Mano Sriram"
+title: "E S Aaditya Reddy"
 ---
 
-Hi, I'm Mano. Interested in compilers/transpilers. Also worked on backend servers, dev-ops. I do have a homelab setup with a Raspberry-PI4, mainly for hosting hobby projects.
+Hi, I'm Aditya — a software developer focused on building scalable web applications with the MERN stack. I care about clean code, minimal design and shipping useful things.
 
-Currently working at [IBM](https://www.ibm.com/in-en) as Software Engineer on Watson Code Assistant for Z (WCA4Z Transpiler for PL/I)
+Currently interning at Accenture. I’ve built projects like a full‑stack Blog Platform with authentication, a Front Page Maker (with PDF export), and several small apps.
 
-Previously wrote: [nimbusdb](https://github.com/manosriram/nimbusdb) (persistent key-value store), [lark](https://github.com/manosriram/lark) (toy interpreter with a weird syntax)
-
-Currently writing: [8-bit CPU emulator](https://github.com/manosriram/8bitcpu)
-
+This site hosts my portfolio and blog. Dark mode supported.
 
 ### Contact
 
-I'm always open to having a chat or conversation. Feel free to e-mail me (address below) or just send
-me a message on [X](https://x.com/manosriram)
-
-[email](mailto:hello@manosriram.com) | [github](https://github.com/manosriram)
+[Email](mailto:esaadityareddy@gmail.com) · [GitHub](https://github.com/EmaniAditya) · [LinkedIn](https://linkedin.com/in/emaniaditya) · [X](https://x.com/Emani_Aditya)
