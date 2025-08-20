@@ -1,6 +1,6 @@
-baseURL = 'https://manosriram.com/'
+baseURL = 'https://emaniaditya.github.io/'
 languageCode = 'en-us'
-title = 'Mano Sriram'
+title = 'E S Aaditya Reddy'
 theme = 'hugo-bearblog'
 
 [[menu.main]]
@@ -14,16 +14,22 @@ theme = 'hugo-bearblog'
   weight = 2
 
 [[menu.main]]
-  name = "resume"
-  url = "/resume.pdf"
+  name = "projects"
+  url = "/projects/"
   weight = 3
 
+[[menu.main]]
+  name = "resume"
+  url = "/resume.pdf"
+  weight = 4
+
 [params]
-  description = "My Internet home"
-  author = "Mano Sriram"
+  description = "Software Developer | MERN | Node.js"
+  author = "E S Aaditya Reddy"
   hideMadeWithLine = true
   favicon = "favicon.svg"
 
-[services]
-  [services.googleAnalytics]
-    id = "G-WJT0MDZBL1"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
