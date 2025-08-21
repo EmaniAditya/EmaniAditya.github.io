@@ -2,12 +2,15 @@
 title: "E S Aaditya Reddy"
 ---
 
-Hi, I'm Aditya — a software developer focused on building scalable web applications with the MERN stack. I care about clean code, minimal design and shipping useful things.
+Hi, I'm Aditya. Interested in building application with usability in mind. Also worked on backend at Accenture, built few applications.
 
-Currently interning at Accenture. I’ve built projects like a full‑stack Blog Platform with authentication, a Front Page Maker (with PDF export), and several small apps.
+Currently working on [premove.app](https://premove.app/)
 
-This site hosts my portfolio and blog. Dark mode supported.
+Previously built: [blog-application](https://github.com/emaniaditya/blog-application) (full-stack MERN app), [front-page-maker](https://github.com/emaniaditya/front-page-maker) (generate curated project
+front pages instantly)
+
+Clients: [Shreejee Automobiles](https://shreejeeautomobiles.com), [Capital Diesels](https://capitaldiesels.com)
 
 ### Contact
 
-[Email](mailto:esaadityareddy@gmail.com) · [GitHub](https://github.com/EmaniAditya) · [LinkedIn](https://linkedin.com/in/emaniaditya) · [X](https://x.com/Emani_Aditya)
+I'm always open to having a chat or conversation. Feel free to e-mail me (address below)

@@ -1,9 +1,8 @@
 {{ $s := .Site.Params.social }}
 <div class="footer-links">
-  {{ with $s.email }}<a href="mailto:{{ . }}" aria-label="Email">Email</a>{{ end }}
-  {{ with $s.github }}<a href="{{ . }}" rel="me">GitHub</a>{{ end }}
-  {{ with $s.linkedin }}<a href="{{ . }}" rel="me">LinkedIn</a>{{ end }}
-  {{ with $s.x }}<a href="{{ . }}" rel="me">X</a>{{ end }}
+  {{ with $s.email }}<a href="mailto:{{ . }}" aria-label="email">email</a>{{ end }} | {{ with $s.github }}<a href="{{ . }}" rel="me">github</a>{{ end }}
+  <!-- {{ with $s.linkedin }}<a href="{{ . }}" rel="me">LinkedIn</a>{{ end }}
+  {{ with $s.x }}<a href="{{ . }}" rel="me">X</a>{{ end }} -->
 </div>
 
 {{ if not (.Param "hideMadeWithLine") }}

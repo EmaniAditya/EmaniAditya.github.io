@@ -1,17 +1,10 @@
 {{ define "main" }}
-<section id="hero" style="display:flex; align-items:center; gap:16px; margin-bottom: 24px;">
-  <img src="/img/profile-photo.jpg" alt="E S Aaditya Reddy" style="width:96px; height:96px; border-radius:50%; object-fit:cover;" />
-  <div>
-    <h1 style="margin: 0 0 4px 0;">{{ .Site.Title }}</h1>
-    <p style="margin: 0;">{{ with .Site.Params.description }}{{ . }}{{ end }}</p>
-  </div>
-</section>
 
 <section id="about">
   {{ .Content }}
 </section>
 
-<hr />
+<!-- <hr />
 
 <section id="recent-posts">
   <h2>Recent Posts</h2>
@@ -31,16 +24,16 @@
   {{ else }}
     <p>No posts yet. <a href="/posts/">Go to blog</a></p>
   {{ end }}
-</section>
+</section> -->
 
-<hr />
+<!-- <hr />
 
 <section id="projects">
   <h2>Projects</h2>
   {{ $projects := where .Site.RegularPages "Section" "projects" }}
   {{ if gt (len $projects) 0 }}
     <ul>
-      {{ range first 6 $projects }}
+      {{ range first 5 $projects }}
         <li><a href='{{ .RelPermalink }}'>{{ .Title }}</a>{{ with .Params.tagline }} — {{ . }}{{ end }}</li>
       {{ end }}
     </ul>
@@ -48,16 +41,16 @@
   {{ else }}
     <p>Project pages coming soon.</p>
   {{ end }}
-</section>
+</section> -->
 
-<hr />
+<!-- <hr />
 
 <section id="experience">
   <h2>Experience</h2>
   <div class="experience-item">
     <h3>Software Engineering Intern</h3>
     <p><strong>Accenture</strong> — Bengaluru, Karnataka</p>
-    <p>May 2025 – Present</p>
+    <p>May 2025 – July 2025</p>
     <ul>
       <li>Participating in Accenture's internship program focused on software development and real-world project implementation.</li>
       <li>Collaborating within a corporate environment, adhering to data security, confidentiality, and performance expectations.</li>
@@ -66,15 +59,15 @@
   <div class="experience-item">
     <h3>Web Development Intern</h3>
     <p><strong>KODAAC (Kodagians Alumni Association)</strong> — Bengaluru, Karnataka</p>
-    <p>Aug 2024 – Apr 2025</p>
+    <p>Jan 2025 – Apr 2025</p>
     <ul>
       <li>Collaborated with teams to manage data collection and improve web performance.</li>
       <li>Enhanced existing systems through bug fixes and feature development.</li>
     </ul>
   </div>
-</section>
+</section> -->
 
-<hr />
+<!-- <hr />
 
 <section id="education">
   <h2>Education</h2>
@@ -88,9 +81,9 @@
     <p>VI – XII (Sr. Secondary)</p>
     <p>2015 – 2022</p>
   </div>
-</section>
+</section> -->
 
-<hr />
+<!-- <hr />
 
 <section id="skills">
   <h2>Skills</h2>
@@ -105,9 +98,9 @@
     <span class="skill-item">Git</span>
     <span class="skill-item">PostgreSQL</span>
   </div>
-</section>
+</section> -->
 
-<hr />
+<!-- <hr />
 
 <section id="contact">
   <h2>Contact</h2>
@@ -117,5 +110,5 @@
     <li>LinkedIn: <a href="https://linkedin.com/in/emaniaditya">linkedin.com/in/emaniaditya</a></li>
     <li>X: <a href="https://x.com/Emani_Aditya">x.com/Emani_Aditya</a></li>
   </ul>
-</section>
+</section> -->
 {{ end }}
