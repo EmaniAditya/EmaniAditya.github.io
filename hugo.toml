@@ -36,7 +36,6 @@ theme = 'hugo-bearblog'
     x = "https://x.com/Emani_Aditya"
 
 [taxonomies]
-  tag = "tags"
   category = "categories"
 
 [markup]
