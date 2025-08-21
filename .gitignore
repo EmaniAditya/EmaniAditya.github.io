@@ -1,7 +1,8 @@
 # Hugo build output
 public/
-resources/_gen/
+resources/
 .hugo_build.lock
+.hugo_cache/
 
 # OS / editor junk
 .DS_Store
