@@ -3,7 +3,7 @@ title = "A Day in Bengaluru's Blossom Book House"
 description = "Experience in of the city's biggest book shops"
 date = 2025-06-15T00:00:00Z
 updated = 2025-06-15T00:00:00Z
-draft = false
+draft = true
 slug = "blossom"
 +++
 

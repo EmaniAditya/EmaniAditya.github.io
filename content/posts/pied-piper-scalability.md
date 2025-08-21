@@ -3,7 +3,7 @@ title = "PiedPiper scalability issues"
 description = "How PiedPiper scaled for the man who drank his own urine."
 date = 2023-06-17T00:00:00Z
 updated = 2023-06-17T00:00:00Z
-draft = false
+draft = true
 slug = "pied-piper-scalability"
 +++
 

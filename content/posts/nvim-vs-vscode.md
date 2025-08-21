@@ -3,7 +3,7 @@ title = "Neovim vs VSCode"
 description = "Editor wars - VSCode/Neovim"
 date = 2023-06-30T00:00:00Z
 updated = 2023-06-30T00:00:00Z
-draft = false
+draft = true
 slug = "nvim-vs-vscode"
 +++
 

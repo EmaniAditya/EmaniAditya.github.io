@@ -3,7 +3,7 @@ title = "Building an homelab with Raspberry Pi 4"
 description = "Homelab for myself"
 date = 2025-01-23T00:00:00Z
 updated = 2025-01-23T00:00:00Z
-draft = false
+draft = true
 slug = "homelab"
 +++
 

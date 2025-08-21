@@ -3,7 +3,7 @@ title = "Making time to learn software design patterns"
 description = "Exploring different design patterns in Python"
 date = 2024-07-28T00:00:00Z
 updated = 2024-07-28T00:00:00Z
-draft = false
+draft = true
 slug = "design-patterns"
 +++
 

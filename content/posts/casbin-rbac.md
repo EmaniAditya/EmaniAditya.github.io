@@ -3,7 +3,7 @@ title = "Implementing Authorization using Casbin. Introduction to Casbin RBAC"
 description = "Intro to Casbin RBAC and authorization rules, policies"
 date = 2023-06-21T00:00:00Z
 updated = 2023-06-21T00:00:00Z
-draft = false
+draft = true
 +++
 
 Casbin is a library used to implement authorization of different kinds. It simplifies the implementation of roles and permissions in general and it does provide out of box useful methods. Casbin uses some entities inorder to define roles and permissions.

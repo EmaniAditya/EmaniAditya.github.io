@@ -3,7 +3,7 @@ title = "Key Value Store internals"
 description = "Internals of KV store and difference between KV store and a Cache"
 date = 2023-11-23T00:00:00Z
 updated = 2023-11-23T00:00:00Z
-draft = false
+draft = true
 slug = "key-value-stores"
 +++
 

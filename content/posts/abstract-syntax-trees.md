@@ -3,7 +3,7 @@ title = "Abstract syntax trees"
 description = "Understanding Abstract syntax trees by writing one"
 date = 2025-01-12T00:00:00Z
 updated = 2025-01-12T00:00:00Z
-draft = false
+draft = true
 slug = "abstract-syntax-trees"
 +++
 

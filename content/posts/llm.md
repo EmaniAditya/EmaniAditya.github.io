@@ -3,7 +3,7 @@ title = "How i make use of LLMs"
 description = "LLM tools which I use to write code"
 date = 2025-04-23T00:00:00Z
 updated = 2025-04-23T00:00:00Z
-draft = false
+draft = true
 slug = "llm"
 +++
 

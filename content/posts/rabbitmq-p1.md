@@ -3,7 +3,7 @@ title = "RabbitMQ #1: Understanding RabbitMQ"
 description = "Understanding the basic terms of RabbitMQ and how a basic producer/consumer works"
 date = 2024-02-25T00:00:00Z
 updated = 2024-02-25T00:00:00Z
-draft = false
+draft = true
 slug = "rabbitmq-p1"
 +++
 

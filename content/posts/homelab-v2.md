@@ -3,7 +3,7 @@ title = "Getting serious with home server and self-hosting"
 description = "Homelab V2"
 date = 2025-07-27T00:00:00Z
 updated = 2025-07-27T00:00:00Z
-draft = false
+draft = true
 slug = "homelab-v2"
 +++
 

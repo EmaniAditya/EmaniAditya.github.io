@@ -3,7 +3,7 @@ title = "Writing an Interpreter by Hand"
 description = "Writing an interpreter from scratch in Golang"
 date = 2024-07-18T00:00:00Z
 updated = 2024-07-18T00:00:00Z
-draft = false
+draft = true
 slug = "writing-an-interpreter"
 +++
 
