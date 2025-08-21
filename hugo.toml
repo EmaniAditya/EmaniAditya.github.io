@@ -29,6 +29,10 @@ theme = 'hugo-bearblog'
   hideMadeWithLine = true
   favicon = "favicon.svg"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
