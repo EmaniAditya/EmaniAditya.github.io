@@ -10,6 +10,7 @@ slug = "welcome"
 Hi, I'm Aditya. I build with the MERN stack and enjoy shipping small, useful tools.
 
 On this blog I’ll share:
+
 - short notes from projects
 - practical web dev tips (Node.js, React, Express, MongoDB)
 - occasional write‑ups about tooling and productivity

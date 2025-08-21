@@ -1,6 +1,6 @@
 baseURL = 'https://emaniaditya.github.io/'
 languageCode = 'en-us'
-title = 'E S Aaditya Reddy'
+title = 'adi'
 theme = 'hugo-bearblog'
 
 [[menu.main]]
@@ -24,8 +24,8 @@ theme = 'hugo-bearblog'
   weight = 4
 
 [params]
-  description = "Software Developer | MERN | Node.js"
-  author = "E S Aaditya Reddy"
+  description = "Software Engineer"
+  author = "Aditya"
   hideMadeWithLine = true
   favicon = "favicon.svg"
 
