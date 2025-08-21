@@ -1,7 +1,6 @@
 ---
 title: "Front Page Maker"
 date: 2025-08-20
-updated:
 publish: true
 ---
 
@@ -12,6 +11,7 @@ Supports one‑click PDF generation and works across devices.
 - Source: https://github.com/EmaniAditya/front-page-maker
 
 Highlights:
+
 - Customizable fields and layout
 - Client‑side PDF export
 - Mobile‑friendly UI

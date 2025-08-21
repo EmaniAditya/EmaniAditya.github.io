@@ -1,7 +1,6 @@
 ---
 title: "Blog Application"
 date: 2025-08-20
-updated:
 publish: true
 ---
 
@@ -12,6 +11,7 @@ Includes user authentication, post CRUD, and a responsive UI.
 - Source: https://github.com/EmaniAditya/blog-application
 
 Highlights:
+
 - Auth (register/login), protected routes
 - Create, edit, delete posts; list & detail views
 - Clean, minimal UI

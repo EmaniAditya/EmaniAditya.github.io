@@ -1,7 +1,6 @@
 ---
 title: "Weather App"
 date: 2025-08-20
-updated:
 publish: true
 ---
 
@@ -12,6 +11,7 @@ Built with React and Tailwind CSS; uses Axios for HTTP requests.
 - Source: https://github.com/EmaniAditya/weather-app
 
 Highlights:
+
 - City-based search
 - API error handling
 - Responsive layout
