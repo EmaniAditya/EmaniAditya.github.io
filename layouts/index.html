@@ -1,0 +1,115 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "main" }}
+
+<section id="about">
+  {{ .Content }}
+</section>
+
+<!-- <hr />
+
+<section id="recent-posts">
+  <h2>Recent Posts</h2>
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ if gt (len $posts) 0 }}
+    <ul class="blog-posts">
+      {{ range first 5 $posts }}
+        <li>
+          <span>
+            <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>{{ .Date.Format "2006-01-02" }}</time>
+          </span>
+          <a href='{{ .RelPermalink }}'>{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+    <p><a href="/posts/">All posts →</a></p>
+  {{ else }}
+    <p>No posts yet. <a href="/posts/">Go to blog</a></p>
+  {{ end }}
+</section> -->
+
+<!-- <hr />
+
+<section id="projects">
+  <h2>Projects</h2>
+  {{ $projects := where .Site.RegularPages "Section" "projects" }}
+  {{ if gt (len $projects) 0 }}
+    <ul>
+      {{ range first 5 $projects }}
+        <li><a href='{{ .RelPermalink }}'>{{ .Title }}</a>{{ with .Params.tagline }} — {{ . }}{{ end }}</li>
+      {{ end }}
+    </ul>
+    <p><a href="/projects/">All projects →</a></p>
+  {{ else }}
+    <p>Project pages coming soon.</p>
+  {{ end }}
+</section> -->
+
+<!-- <hr />
+
+<section id="experience">
+  <h2>Experience</h2>
+  <div class="experience-item">
+    <h3>Software Engineering Intern</h3>
+    <p><strong>Accenture</strong> — Bengaluru, Karnataka</p>
+    <p>May 2025 – July 2025</p>
+    <ul>
+      <li>Participating in Accenture's internship program focused on software development and real-world project implementation.</li>
+      <li>Collaborating within a corporate environment, adhering to data security, confidentiality, and performance expectations.</li>
+    </ul>
+  </div>
+  <div class="experience-item">
+    <h3>Web Development Intern</h3>
+    <p><strong>KODAAC (Kodagians Alumni Association)</strong> — Bengaluru, Karnataka</p>
+    <p>Jan 2025 – Apr 2025</p>
+    <ul>
+      <li>Collaborated with teams to manage data collection and improve web performance.</li>
+      <li>Enhanced existing systems through bug fixes and feature development.</li>
+    </ul>
+  </div>
+</section> -->
+
+<!-- <hr />
+
+<section id="education">
+  <h2>Education</h2>
+  <div class="education-item">
+    <h3>SRU, Raipur</h3>
+    <p>Bachelor of Technology — Computer Science and Engineering</p>
+    <p>2022 – Present</p>
+  </div>
+  <div class="education-item">
+    <h3>Sainik School, Kodagu</h3>
+    <p>VI – XII (Sr. Secondary)</p>
+    <p>2015 – 2022</p>
+  </div>
+</section> -->
+
+<!-- <hr />
+
+<section id="skills">
+  <h2>Skills</h2>
+  <div class="skills-list" style="display:flex; flex-wrap:wrap; gap:8px;">
+    {{/* Keep this brief and representative */}}
+    <span class="skill-item">Node.js</span>
+    <span class="skill-item">React</span>
+    <span class="skill-item">Express</span>
+    <span class="skill-item">MongoDB</span>
+    <span class="skill-item">JavaScript</span>
+    <span class="skill-item">Tailwind CSS</span>
+    <span class="skill-item">Git</span>
+    <span class="skill-item">PostgreSQL</span>
+  </div>
+</section> -->
+
+<!-- <hr />
+
+<section id="contact">
+  <h2>Contact</h2>
+  <ul>
+    <li>Email: <a href="mailto:esaadityareddy@gmail.com">esaadityareddy@gmail.com</a></li>
+    <li>GitHub: <a href="https://github.com/EmaniAditya">github.com/EmaniAditya</a></li>
+    <li>LinkedIn: <a href="https://linkedin.com/in/emaniaditya">linkedin.com/in/emaniaditya</a></li>
+    <li>X: <a href="https://x.com/Emani_Aditya">x.com/Emani_Aditya</a></li>
+  </ul>
+</section> -->
+{{ end }}

@@ -1,0 +1,29 @@
+{{ define "main" }}
+<content>
+  {{ if .Data.Singular }}
+  <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
+  <small>
+    <a href="{{ "/posts/" | relURL }}">Remove filter</a>
+  </small>
+  {{ end }}
+  <ul class="blog-posts">
+    {{ range where .Pages "Params.publish" true }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Lastmod.Format "2006-01-02" }}'>
+            {{ .Lastmod.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ else }}
+    <li>
+      No posts yet
+    </li>
+    {{ end }}
+  </ul>
+  {{/* tags cloud removed intentionally */}}
+</content>
+{{ end }}
