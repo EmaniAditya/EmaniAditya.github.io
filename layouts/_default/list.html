@@ -7,12 +7,12 @@
   </small>
   {{ end }}
   <ul class="blog-posts">
-    {{ range .Pages }}
+    {{ range where .Pages "Params.publish" true }}
     <li>
       <span>
         <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}'>
-            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          <time datetime='{{ .Lastmod.Format "2006-01-02" }}'>
+            {{ .Lastmod.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
           </time>
         </i>
       </span>

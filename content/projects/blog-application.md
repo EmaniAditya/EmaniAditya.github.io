@@ -1,8 +1,8 @@
 ---
 title: "Blog Application"
 date: 2025-08-20
-draft: false
-tagline: "Full‑stack MERN blog with authentication"
+updated:
+publish: true
 ---
 
 A full‑stack blogging platform built with MongoDB, Express.js, React, and Node.js.

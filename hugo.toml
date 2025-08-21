@@ -41,3 +41,6 @@ theme = 'hugo-bearblog'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[frontmatter]
+  lastmod = ["updated", ":git", ":fileModTime", ":default"]

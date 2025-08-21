@@ -1,8 +1,8 @@
 ---
 title: "Front Page Maker"
 date: 2025-08-20
-draft: false
-tagline: "Generate project front pages with custom PDF export"
+updated:
+publish: true
 ---
 
 A simple tool that helps students generate project front pages with customizable text and logos.
