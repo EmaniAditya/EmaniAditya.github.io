@@ -29,6 +29,12 @@ theme = 'hugo-bearblog'
   hideMadeWithLine = true
   favicon = "favicon.svg"
 
+  [params.social]
+    email = "esaadityareddy@gmail.com"
+    github = "https://github.com/EmaniAditya"
+    linkedin = "https://linkedin.com/in/emaniaditya"
+    x = "https://x.com/Emani_Aditya"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
