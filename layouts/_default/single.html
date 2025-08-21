@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article>
+  <header>
+    <h1>{{ .Title }}</h1>
+    <p>
+      <i>
+        <time datetime='{{ .Date.Format "2006-01-02" }}'>
+          {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+        </time>
+        • {{ .ReadingTime }} min read
+      </i>
+    </p>
+  </header>
+
+  <content>
+    {{ .Content }}
+  </content>
+
+  {{ $tags := (.GetTerms "tags") }}
+  {{ if $tags }}
+  <p>
+    {{ range $tags }}
+      <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+    {{ end }}
+  </p>
+  {{ end }}
+</article>
+{{ end }}
