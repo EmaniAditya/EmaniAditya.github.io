@@ -1,7 +1,7 @@
 ---
 title: "day after day"
 date: 2025-09-01
-publish: true
+publish: false
 ---
 
 It's an anniversary without Instagram. One reason I deactivated my account is that I felt I wasn't being true to myself. I know this sounds like influencer stuff, but it's the truth. Maybe I was pretending to be cooler or better than I am.
