@@ -1,6 +1,6 @@
 ---
 title: "Blog Application"
-date: 2025-08-20
+date: 2025-01-19
 publish: true
 ---
 

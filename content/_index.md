@@ -9,7 +9,7 @@ Currently working on [premove.app](https://premove.app/)
 Previously built: [blog-application](https://github.com/emaniaditya/blog-application) (full-stack MERN app), [front-page-maker](https://github.com/emaniaditya/front-page-maker) (generate curated project
 front pages instantly)
 
-Working with: [Shreejee Automobiles](https://shreejeeautomobiles.com), [Capital Diesels](https://capitaldiesels.com)
+Worked with: [Shreejee Automobiles](https://shreejeeautomobiles.com), [Capital Diesels](https://capitaldiesels.com)
 
 ### Contact
 
