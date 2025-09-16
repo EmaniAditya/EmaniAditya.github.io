@@ -12,7 +12,7 @@ I became a Google Student Ambassador recently. Sounds cool, right? I get to talk
 
 It started with a Google Form - that was okay. But then they asked for my WhatsApp number. Come on, Google? Soon, messages came from emails on a new domain ([bought 4-5 months ago](/static/img/aiskillshouse-whois-lookup.png)) and WhatsApp. Honestly, I did it for the free t-shirt.
 
-The interview was simple: 15-20 minutes on Google Meet. If you pass, you fill out an agreement and send it back with a Google Form. Then, a WhatsApp message invites you to join a group. Once approved, you're added to your state's WhatsApp group for the first meeting. Two days later, another form to get your free kit. Soon after, they ask you to bring in college friends with rewards for referrals. My school friend Pratik got me in, so I used his name when talking to my college mates, and I got my [kit](/static/img/goodies.jpeg) today thanks to him.
+The interview was simple: 15-20 minutes on Google Meet. If you pass, you fill out an agreement and send it back with a Google Form. Then, a WhatsApp message invites you to join a group. Once approved, you're added to your state's WhatsApp group for the first meeting. Two days later, another form to get your free kit. Soon after, they ask you to bring in college friends with rewards for referrals. My school friend Pratik got me in, so I used his name when talking to my college mates, and I got my [kit](/img/goodies.jpeg) today thanks to him.
 
 ## The Program: [Tracking](/static/img/tracking.png) Everything
 
