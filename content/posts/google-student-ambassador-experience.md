@@ -1,7 +1,7 @@
 ---
-title = "Genuine Opportunity or Clever Exploitation?"
-date = 2025-09-15
-draft = true
+title: "Genuine Opportunity or Clever Exploitation?"
+date: 2025-09-15
+draft: true
 ---
 
 # My Experience as a Google Student Ambassador

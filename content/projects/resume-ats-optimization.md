@@ -1,7 +1,7 @@
 ---
-title = "ATS-Friendly Resume"
-date = 2025-09-14
-draft = true
+title: "ATS-Friendly Resume"
+date: 2025-09-14
+draft: true
 ---
 
 # The Perfect ATS-Friendly Resume
