@@ -1,9 +1,8 @@
-+++
+---
 title = "ATS-Friendly Resume"
 date = 2025-09-14
 draft = true
-tagline = "Resume chaos to a 98/100 ATS score"
-+++
+---
 
 # The Perfect ATS-Friendly Resume
 
