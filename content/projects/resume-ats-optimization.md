@@ -12,7 +12,7 @@ I tried to solve this by building a simple HTML ATS-friendly [resume maker](http
 
 ![LibreOffice Resume](/img/libre-resume-template.png)
 
-That's when I decided to go old school and do it in a word doc, like my friend who was using Canva. I thought hers was image-based but was wrong and the [low](https://app.enhancv.com/resume-checker/report/68c85f01b94defcb9a7cb888?isWithGenerateSummary=false) ATS score might be because of some missing sections. On my laptop, I used LibreOffice (since that's ubuntus doc editor), and to my surprise, they had pre-built resume templates. I customized one and exported to PDF.
+That's when I decided to go old school and do it in a word doc, like my friend who was using Canva. I thought hers was image-based but was wrong and the [low](https://enhancv.com/) ATS score might be because of some missing sections. On my laptop, I used LibreOffice (since that's ubuntus doc editor), and to my surprise, they had pre-built resume templates. I customized one and exported to PDF.
 
 My current resume scores 98/100 on ATS checkers and is made with LibreOffice. It's text-based, customizable, free, and reliable.
 
