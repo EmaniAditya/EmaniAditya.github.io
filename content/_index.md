@@ -9,7 +9,7 @@ Currently working on [Premove.App](https://premove.app/)
 <!-- Previously built: [blog-application](https://github.com/emaniaditya/blog-application) (full-stack MERN app), [front-page-maker](https://github.com/emaniaditya/front-page-maker) (generate curated project
 front pages instantly) -->
 
-Worked with: [Shreejee Automobiles](https://shreejeeautomobiles.com), [Capital Diesels](https://capitaldiesels.com), [SmartGST Suite](http://smartgstsuite.vercel.app/) for Padam Motor Works & [Trace Less](http://trace-less.web.app/)
+Worked with: [Shreejee Automobiles](https://shreejeeautomobiles.com), [Capital Diesels](https://capitaldiesels.com), [SmartGST Suite](http://smartgstsuite.vercel.app/) - an Invoicing SaaS platform for Padam Motor Works & others, [Trace Less](http://trace-less.web.app/)
 
 ### Contact
 
