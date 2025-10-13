@@ -6,10 +6,7 @@ Hi, I'm Aditya. Interested in building application with usability in mind. Also 
 
 Currently working on [Premove.App](https://premove.app/) - a cross platform SaaS app for Fleet Management piloted by [Ramky Group's](https://ramky.com) MSW (Municipal Solid Waste) vertical [Re Sustainability Ltd](https://resustainability.com).
 
-<!-- Previously built: [blog-application](https://github.com/emaniaditya/blog-application) (full-stack MERN app), [front-page-maker](https://github.com/emaniaditya/front-page-maker) (generate curated project
-front pages instantly) -->
-
-Worked with: [Shreejee Automobiles](https://shreejeeautomobiles.com), [Capital Diesels](https://capitaldiesels.com), [SmartGST Suite](http://smartgstsuite.vercel.app/) - an Invoicing SaaS platform for Padam Motor Works & Others, [Trace Less](http://trace-less.web.app/)
+Worked with: [Shreejee Automobiles](https://shreejeeautomobiles.com), [Capital Diesels](https://capitaldiesels.com), [SmartGST Suite](http://smartgstsuite.vercel.app/) - an Invoicing SaaS web app, [Trace Less](http://trace-less.web.app/), [MM Agri](https://mmagri.vercel.app/)
 
 ### Contact
 
