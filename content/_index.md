@@ -2,7 +2,7 @@
 title: "Aditya"
 ---
 
-Hi, I'm Aditya. Interested in building application with usability in mind. Also worked on backend at Accenture, built few applications
+Hi, I'm Aditya. Founding Engineer at [Premove Solutions](https://solutions.premove.app/). Interested in building applications with usability in mind. Also worked on Software Engineer Intern at Accenture.
 
 Currently working on [Premove.App](https://premove.app/) - a cross platform SaaS app for Fleet Management piloted by [Ramky Group's](https://ramky.com) MSW (Municipal Solid Waste) vertical [Re Sustainability Ltd](https://resustainability.com).
 
