@@ -2,12 +2,14 @@
 title: "Aditya"
 ---
 
-Hi, I'm Aditya. Freelance Software Consultant. Interested in building applications with usability in mind. Also worked as Software Engineer Intern at Accenture.
+Hi, I'm Aditya. Business Analyst & Software Engineer building scalable SaaS products and web solutions. I lead technical teams to deliver high-impact B2B solutions with a focus on usability and performance.
 
-Currently working on [Premove.App](https://premove.app/) - a cross platform SaaS app for Fleet Management piloted by [Ramky Group's](https://ramky.com) MSW (Municipal Solid Waste) vertical [Re Sustainability Ltd](https://resustainability.com).
+**Currently:** Business Analyst Trainee at Stratview Research, focusing on data operations and dashboard-driven insights. Also building [Premove.App](https://premove.app/) — a fleet management SaaS serving 200+ vehicles with live analytics.
 
-Worked with: [Shreejee Automobiles](https://shreejeeautomobiles.com), [Capital Diesels](https://capitaldiesels.com), [Premove Logs](http://logs.solutions.premove.app/) - an Invoicing SaaS web app, [Trace Less](http://trace-less.web.app/), [MM Agri](https://mmagri.vercel.app/)
+**Experience:** Led a 5-member team delivering 7+ B2B solutions generating INR 3L+ revenue. Previously: Software Engineer Intern at Accenture, Website & Data Management Intern at KODAAC, and consultant for [Chhattisgarh Athletics Association](https://www.caathletics.org/).
+
+**Notable Projects:** [Premove Logs](http://logs.solutions.premove.app/) (invoicing SaaS), [Trace-Less](http://trace-less.web.app/) (P2P communication), and work with [Shreejee Automobiles](https://shreejeeautomobiles.com) and [Capital Diesels](https://capitaldiesels.com).
 
 ### Contact
 
-I'm always open to having a chat or conversation. Feel free to e-mail me (address below)
+Always open to conversations. Reach out via email (address below).
